@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomade-movie-app/static/js/main.540a45dc.js",
+    "index.html": "/nomade-movie-app/index.html",
+    "main.540a45dc.js.map": "/nomade-movie-app/static/js/main.540a45dc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.540a45dc.js"
+  ]
+}
